@@ -1,3 +1,5 @@
+# Thiago do Prado Silva
+# 117031024
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
